@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <city>
-  <title>Volgograd</title>
-  <description>about the city</description>
-  <img alt="" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" border="0">
+	<title>Volgograd</title>
+	<description>about the city</description>
+  	<img alt="" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" border="0">
 </city>
 
 <product>
-    <title>Milk</title>
-    <discription>kind of milk</discription>
-    <imageblock>
-        <img alt="" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" border="0">
-        <img alt="" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" border="0">
-        <img alt="" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" border="0">
-    </imageblock>
-    <price>7.56</price>
+  	<title>Milk</title>
+  	<discription>kind of milk</discription>
+	<imageblock>
+		<img alt="" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" border="0">
+        	<img alt="" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" border="0">
+        	<img alt="" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" border="0">
+	</imageblock>
+  	<price>7.56</price>
 </product>
